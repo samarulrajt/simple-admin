@@ -1,4 +1,5 @@
-Simple Admin
+# simple-admin
+A package which provides a simple UI for managing users
 
 A sample package for supporting Laravel 5
 
